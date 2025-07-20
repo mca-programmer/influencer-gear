@@ -175,3 +175,36 @@ nav ul li a i {
   margin-bottom: 8px;
 }
 
+/* Featured section*/
+
+.featured {
+  background-color: #f8f8f8;
+  padding: 50px 0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.featured-content {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.featured-text h3 {
+  font-size: 38px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  
+}
+.primary-btn{
+  background-color:#E02C6D ;
+  padding: 10px 24px;
+  color:#ffffff ;
+}
+.text p{
+  font-size: 16px;
+margin-left: 16px;
+margin-right: 16px;
+color: #6C6C6C;
+font-weight: bold;
+}
