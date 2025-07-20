@@ -54,3 +54,43 @@ nav ul li a {
 nav ul li a i {
   font-size: 18px;
 }
+/* Hero */
+.hero-image{
+  background-image: url(images/Circle\ design.svg);
+  width: 475px;
+  height: 475px;
+}
+.img{
+  width: 440px;
+  height: 414px;
+}
+.hero {
+  padding: 50px 0;
+  background-color: #f8f8f8;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.hero-text h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.hero-text p {
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.btn {
+  background-color: #e02c6d;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 30px;
+  text-decoration: none;
+}
